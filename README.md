@@ -7,3 +7,6 @@ Always ready to dive into data puzzles and collaborate on innovative projects.<b
 Let’s turn data into decisions together!</p>
 
 <p>💡 Got a project? Let’s connect!</p>
+
+<p>You can find me on:</p>
+<a href="https://www.linkedin.com/in/natan-bond-344718183/">LinkedIn Profile</a></p>
