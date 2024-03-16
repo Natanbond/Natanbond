@@ -9,4 +9,4 @@ Let’s turn data into decisions together!</p>
 <p>💡 Got a project? Let’s connect!</p>
 
 <p>You can find me on:</p>
-<a href="https://www.linkedin.com/in/natan-bond-344718183/">LinkedIn Profile</a></p>
+<a href="https://www.linkedin.com/in/natanbond/">LinkedIn Profile</a></p>
